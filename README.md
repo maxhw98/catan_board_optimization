@@ -1,5 +1,5 @@
-# catan_board_optimization
-### Using a graph theory generalization of Catan board game to create the most balanced board setup
+# Catan Board Optimization using graphs in python
+## Using a graph theory generalization of Catan board game to create the most balanced board setup
 
 The outcome of this project was actually pretty surprising and I found a great board setup algorithm despite setting out to just practice my graph skills. I used a scipi package cause I have built graphs out by scratch in java for data structures and wasn't really feeling like doing it again. On to the algorithm tho, you can achieve an optimally balanced board equal to one with a desert in the middle (mathematically optimal but not really common as people seem to dislike it) with a desert on the outside if you follow a specific pattern.
 
