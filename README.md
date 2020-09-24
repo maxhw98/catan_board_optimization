@@ -6,4 +6,4 @@ The outcome of this project was actually pretty surprising and I found a great b
 ### Setup algorithm:
 Start with the desert in outer ring, but in the middle of an edge (i.e. not in a corner). Start with the A tile on the opposite corner and start going from there but when you skip the desert, go around rather than skip over the desert. This preserves all the correct adjacency of the numbers. If you look at the graphic I made in the article/jupyter notebook file it is more detailed and outlines proof for everything.  
 
-Pretty interesting stuff and it was good to practice my graph theory stuff.
+Pretty interesting stuff and it was good to practice my graph theory stuff. If you're curious check out the .ipynb file on this repo, it'll render in HTML with no dependancies, and if you have jupyterlab and pandas you can play with it, set up a unique board of your own and see all the settlement locations and relative balance scores!
